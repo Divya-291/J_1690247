@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Ex 1</title>
+</head>
+<body>
+	<!--<h1>D</h1>
+    <h2>i</h2>
+    <h3>v</h3>
+    <h4>y</h4>
+    <h5>a</h5>-->
+    <span style="font-size: 36px;">D</span>
+    <span style="font-size: 32px;">i</span>
+    <span style="font-size: 28px;">v</span>
+    <span style="font-size: 24px;">y</span>
+    <span style="font-size: 20px;">a</span>
+    
+</body>
+</html>
